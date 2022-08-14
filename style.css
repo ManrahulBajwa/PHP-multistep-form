@@ -65,6 +65,7 @@ button {
     border: 0;
     color: white;
     border-radius: 3px;
+    cursor : pointer ;
 }
 button.prev {
 background: dodgerblue;
